@@ -1,4 +1,16 @@
-# 💫 About Me:
+# Poornank Purohit:
+<br> Hello and welcome to my profile!
+
+I'm Poornank Purohit, a dedicated and results-driven professional based in San Francisco, CA, with expertise spanning in Software Engineering and IT Industry. Grounded in Agile and Scrum methodologies, I bring a profound understanding of Software development and its lifecycle alongside Networking Protocols and a proven track record in IT services. My proficiency extends to programming languages, troubleshooting, and connectivity, where I consistently deliver high-quality solutions, adhering to Agile development methodologies.
+
+Recently completing my Master's degree in Computer Science at San Francisco State University, my academic journey has equipped me with knowledge in areas such Computer Networks, Data Structure & Algorithms, Machine Learning and Artificial Intelligence, Cyber Security, Natural Language Processing and Cloud Computing. This academic foundation, coupled with my practical experience, positions me as a valuable asset in the dynamic landscape of both IT and Software Engineering. Prior to my Master's degree, I earned a Bachelor's degree in Computer Engineering from Gujarat Technological University, focusing on areas such as Object-Oriented Programming, Data Structures and Algorithms, Network Protocols & standards, and Systems Engineering, providing a comprehensive understanding of the field.
+
+In my role as a Software Engineer at VittorCloud Technologies, I orchestrated a comprehensive machine learning-driven customer segmentation model, leveraging Python and data analysis techniques. Additionally, I managed weekly Scrum meetings, ensuring team alignment and timely project completion, resulting in increase in client satisfaction and repeat business. As an IT Consultant in San Francisco, I played a pivotal role in enhancing reliability and performance while troubleshooting infrastructure faults across campus housing. My responsibilities extended to resolving connectivity issues across networks, using ticketing systems. Simultaneously, I handled the preparation of new computers and mobile devices according to internal policies, ensuring standardized software and security deployments.
+
+As a detail-oriented and analytical problem-solver, I am confident in my ability to contribute to the success of any organization, blending my skills in Software Engineering and IT consulting. Eager to continue expanding my expertise, I am excited about the prospect of new challenges and opportunities in both realms.
+
+Thank you for visiting my profile, and I look forward to connecting with you!
+
 <br>🔭 Currently working on: Innovative software projects leveraging Java, Javascript, Python, MySQL, Django, and React.js.<br><br>👯 Looking to collaborate on: Open-source initiatives and projects that push the boundaries of technology.<br><br>🤝 Seeking help with: Exploring advanced machine learning applications and cloud-based solutions.<br><br>🌱 Currently learning: Continuous integration and deployment with Jenkins and Kubernetes.<br><br>💬 Ask me about: My experience in Software Engineering, IT Consulting, Agile Project Management, and Full-Stack Development.<br><br>⚡ Fun fact: I enjoy experimenting with new recipes in my free time and love exploring different cuisines.
 
 
