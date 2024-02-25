@@ -6,7 +6,7 @@ I'm Poornank Purohit, a dedicated and results-driven professional based in San F
 Recently completing my Master's degree in Computer Science at San Francisco State University, my academic journey has equipped me with knowledge in areas such Computer Networks, Data Structure & Algorithms, Machine Learning and Artificial Intelligence, Cyber Security, Natural Language Processing and Cloud Computing. This academic foundation, coupled with my practical experience, positions me as a valuable asset in the dynamic landscape of both IT and Software Engineering. 
 
 Thank you for visiting my profile, and I look forward to connecting with you!
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>🔭 Currently working on: Innovative software projects leveraging Java, Javascript, Python, MySQL, Django, and React.js.<br><br>👯 Looking to collaborate on: Open-source initiatives and projects that push the boundaries of technology.<br><br>🤝 Seeking help with: Exploring advanced machine learning applications and cloud-based solutions.<br><br>🌱 Currently learning: Continuous integration and deployment with Jenkins and Kubernetes.<br><br>💬 Ask me about: My experience in Software Engineering, IT Consulting, Agile Project Management, and Full-Stack Development.<br><br>⚡ Fun fact: I enjoy experimenting with new recipes in my free time and love exploring different cuisines.
 
 
