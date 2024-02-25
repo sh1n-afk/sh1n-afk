@@ -18,5 +18,6 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 ## 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1n-afk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+##
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
