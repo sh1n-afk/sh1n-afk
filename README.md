@@ -1,9 +1,7 @@
 # Poornank Purohit:
 <br> Hello and welcome to my profile!
 
-I'm Poornank Purohit, a dedicated and results-driven professional based in San Francisco, CA, with expertise spanning in Software Engineering and IT Industry. Grounded in Agile and Scrum methodologies, I bring a profound understanding of Software development and its lifecycle alongside Networking Protocols and a proven track record in IT services. My proficiency extends to programming languages, troubleshooting, and connectivity, where I consistently deliver high-quality solutions, adhering to Agile development methodologies.
-
-Recently completing my Master's degree in Computer Science at San Francisco State University, my academic journey has equipped me with knowledge in areas such Computer Networks, Data Structure & Algorithms, Machine Learning and Artificial Intelligence, Cyber Security, Natural Language Processing and Cloud Computing. This academic foundation, coupled with my practical experience, positions me as a valuable asset in the dynamic landscape of both IT and Software Engineering. 
+I'm Poornank Purohit, a dedicated and results-driven Software Engineer based in San Francisco, CA, with expertise spanning in Software Engineering and IT Industry. I am proficient in programming languages with an eye for cutting edge solution to complex problems. I recently completed my Master's degree in Computer Science at San Francisco State University, which has equipped me with knowledge in areas such Machine Learning and Artificial Intelligence, Data Structure & Algorithms, Computer Networks, Cyber Security, Natural Language Processing and Cloud Computing. This academic foundation, coupled with my practical experience, positions me as a valuable asset in the dynamic landscape of Software Engineering.
 
 Thank you for visiting my profile, and I look forward to connecting with you!
 
